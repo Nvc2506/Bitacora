@@ -1,3 +1,0 @@
-# Bitacora
-html
-
